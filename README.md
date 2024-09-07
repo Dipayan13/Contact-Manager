@@ -34,24 +34,4 @@ To get a local copy up and running, follow these simple steps.
 - [Node.js](https://nodejs.org/) installed on your machine.
 - [MySQL](https://www.mysql.com/downloads/) installed and running.
 
-### Installation
-
-1. **Clone the repository**
-
-2. **Backend Setup:**
-
-    - Navigate to the backend directory.
-
-    - Update the `application.properties` file with your MySQL database credentials.
-
-    - Build and run the Spring Boot application.
-
-
-3. **Frontend Setup:**
-
-    - Navigate to the frontend directory.
-
-    - Install the required NPM packages.
-
-    - Start the React application.
 
