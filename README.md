@@ -24,11 +24,7 @@ This application serves as a contact manager, leveraging Spring Boot for the bac
   - [Visual Studio Code](https://code.visualstudio.com/)
   - [Spring Tool Suite 4](https://spring.io/tools)
 
-## Getting Started
-
-To get a local copy up and running, follow these simple steps.
-
-### Prerequisites
+### Dependencies
 
 - [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) installed on your machine.
 - [Node.js](https://nodejs.org/) installed on your machine.
