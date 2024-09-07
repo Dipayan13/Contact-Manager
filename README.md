@@ -26,8 +26,8 @@ This application serves as a contact manager, leveraging Spring Boot for the bac
 
 ### Dependencies
 
-- [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) installed on your machine.
-- [Node.js](https://nodejs.org/) installed on your machine.
-- [MySQL](https://www.mysql.com/downloads/) installed and running.
+- [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+- [Node.js](https://nodejs.org/).
+- [MySQL](https://www.mysql.com/downloads/).
 
 
